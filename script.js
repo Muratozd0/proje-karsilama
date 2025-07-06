@@ -20,3 +20,7 @@ function arkaPlaniDegistir() {
   const rastgele = Math.floor(Math.random() * renkler.length);
   document.body.style.backgroundColor = renkler[rastgele];
 }
+
+window.onload = function () {
+  alert("Hoş geldin! 👋 Projeme göz attığın için teşekkür ederim.");
+};
