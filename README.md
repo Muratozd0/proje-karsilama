@@ -13,7 +13,11 @@ Bu proje, ziyaretçileri sıcak bir mesajla karşılayan basit bir web arayüzü
 - GitHub Pages
 
 ## 📁 Proje Yapısı
-
+proje-karsilama/
+├── index.html       # Ana HTML dosyası
+├── style.css        # Stil dosyası
+├── script.js        # JavaScript dosyası
+├── README.md        # Proje açıklama dosyası
 ## 🧑‍💻 Geliştirici
 [Murat Özdemir](https://github.com/Muratozd0)
 
