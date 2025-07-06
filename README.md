@@ -18,6 +18,7 @@ proje-karsilama/
 ├── style.css        # Stil dosyası
 ├── script.js        # JavaScript dosyası
 ├── README.md        # Proje açıklama dosyası
+
 ## 🧑‍💻 Geliştirici
 [Murat Özdemir](https://github.com/Muratozd0)
 
